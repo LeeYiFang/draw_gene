@@ -39,7 +39,7 @@ Positive strand need to be 1, and negative strand need to be 0.
     formate: gene_name  start_position end_position strand_type
     example:
                 geneA	50    100    1
-                geneB   200    300    0
+                geneB	200    300    0
                 geneC	500    700    1
 
 ## Result
